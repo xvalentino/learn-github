@@ -1,2 +1,2 @@
 # learn-github
-lets learn github
+lets learn tino
